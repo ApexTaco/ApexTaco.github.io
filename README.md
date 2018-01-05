@@ -3,7 +3,7 @@ This is a hacked version of CaseClicker (which is also known as CSGO Clicker)!
 
 # Usage
 Want to check it out?
-Go to http://digit0.github.io/CaseClicker.
+Go to http://ApexTaco.github.io/CaseClickerCustom.
 Using github's amazing file sharing, you can check out the code to it.
 All code there is needed to run it is there.
 
@@ -24,4 +24,4 @@ Any other files  are most likely just for GitHub.
 Credit for the original CaseClicker code to Bnned
 http://github.com/bnned
 Hacked coding made by me!
-https://github.com/digit0
+https://github.com/ApexTaco
